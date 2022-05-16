@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2838035027E231C000FB565C /* ImageCVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2838034F27E231C000FB565C /* ImageCVCell.swift */; };
-		2838035227E2334700FB565C /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2838035127E2334700FB565C /* HomeViewModel.swift */; };
-		28F8BF6E27E228F800CAD562 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F8BF6D27E228F800CAD562 /* AppDelegate.swift */; };
-		28F8BF7027E228F800CAD562 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F8BF6F27E228F800CAD562 /* SceneDelegate.swift */; };
-		28F8BF7227E228F800CAD562 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F8BF7127E228F800CAD562 /* HomeViewController.swift */; };
-		28F8BF7527E228F800CAD562 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28F8BF7327E228F800CAD562 /* Main.storyboard */; };
-		28F8BF7727E228FA00CAD562 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28F8BF7627E228FA00CAD562 /* Assets.xcassets */; };
-		28F8BF7A27E228FA00CAD562 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28F8BF7827E228FA00CAD562 /* LaunchScreen.storyboard */; };
+		28E66AF92830F291008A200B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E66AF82830F291008A200B /* AppDelegate.swift */; };
+		28E66AFB2830F291008A200B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E66AFA2830F291008A200B /* SceneDelegate.swift */; };
+		28E66AFD2830F291008A200B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E66AFC2830F291008A200B /* ViewController.swift */; };
+		28E66B022830F295008A200B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28E66B012830F295008A200B /* Assets.xcassets */; };
+		28E66B052830F295008A200B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28E66B032830F295008A200B /* LaunchScreen.storyboard */; };
+		28E66B0D28312C88008A200B /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28E66B0C28312C88008A200B /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2838034F27E231C000FB565C /* ImageCVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCVCell.swift; sourceTree = "<group>"; };
-		2838035127E2334700FB565C /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; usesTabs = 1; };
-		28F8BF6A27E228F800CAD562 /* Music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Music.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		28F8BF6D27E228F800CAD562 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		28F8BF6F27E228F800CAD562 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		28F8BF7127E228F800CAD562 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
-		28F8BF7427E228F800CAD562 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		28F8BF7627E228FA00CAD562 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		28F8BF7927E228FA00CAD562 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		28F8BF7B27E228FA00CAD562 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28E66AF52830F291008A200B /* ViewControllerLifecycle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewControllerLifecycle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		28E66AF82830F291008A200B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		28E66AFA2830F291008A200B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		28E66AFC2830F291008A200B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		28E66B012830F295008A200B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		28E66B042830F295008A200B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		28E66B062830F295008A200B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28E66B0C28312C88008A200B /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		28F8BF6727E228F800CAD562 /* Frameworks */ = {
+		28E66AF22830F291008A200B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,106 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2838034B27E22F7B00FB565C /* Controllers */ = {
+		28E66AEC2830F291008A200B = {
 			isa = PBXGroup;
 			children = (
-				28F8BF7127E228F800CAD562 /* HomeViewController.swift */,
-				2838035127E2334700FB565C /* HomeViewModel.swift */,
-			);
-			path = Controllers;
-			sourceTree = "<group>";
-		};
-		2838034C27E22F8800FB565C /* App */ = {
-			isa = PBXGroup;
-			children = (
-				28F8BF7327E228F800CAD562 /* Main.storyboard */,
-				28F8BF7827E228FA00CAD562 /* LaunchScreen.storyboard */,
-				28F8BF6D27E228F800CAD562 /* AppDelegate.swift */,
-				28F8BF6F27E228F800CAD562 /* SceneDelegate.swift */,
-				28F8BF7B27E228FA00CAD562 /* Info.plist */,
-			);
-			path = App;
-			sourceTree = "<group>";
-		};
-		2838034D27E22FC200FB565C /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				2838034F27E231C000FB565C /* ImageCVCell.swift */,
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		2838034E27E22FDD00FB565C /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				28F8BF7627E228FA00CAD562 /* Assets.xcassets */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		28F8BF6127E228F800CAD562 = {
-			isa = PBXGroup;
-			children = (
-				28F8BF6C27E228F800CAD562 /* Music */,
-				28F8BF6B27E228F800CAD562 /* Products */,
+				28E66AF72830F291008A200B /* ViewControllerLifecycle */,
+				28E66AF62830F291008A200B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		28F8BF6B27E228F800CAD562 /* Products */ = {
+		28E66AF62830F291008A200B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				28F8BF6A27E228F800CAD562 /* Music.app */,
+				28E66AF52830F291008A200B /* ViewControllerLifecycle.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		28F8BF6C27E228F800CAD562 /* Music */ = {
+		28E66AF72830F291008A200B /* ViewControllerLifecycle */ = {
 			isa = PBXGroup;
 			children = (
-				2838034D27E22FC200FB565C /* Views */,
-				2838034C27E22F8800FB565C /* App */,
-				2838034B27E22F7B00FB565C /* Controllers */,
-				2838034E27E22FDD00FB565C /* Resources */,
+				28E66AF82830F291008A200B /* AppDelegate.swift */,
+				28E66AFA2830F291008A200B /* SceneDelegate.swift */,
+				28E66AFC2830F291008A200B /* ViewController.swift */,
+				28E66B0C28312C88008A200B /* ViewController.xib */,
+				28E66B012830F295008A200B /* Assets.xcassets */,
+				28E66B032830F295008A200B /* LaunchScreen.storyboard */,
+				28E66B062830F295008A200B /* Info.plist */,
 			);
-			path = Music;
+			path = ViewControllerLifecycle;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		28F8BF6927E228F800CAD562 /* Music */ = {
+		28E66AF42830F291008A200B /* ViewControllerLifecycle */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 28F8BF7E27E228FA00CAD562 /* Build configuration list for PBXNativeTarget "Music" */;
+			buildConfigurationList = 28E66B092830F295008A200B /* Build configuration list for PBXNativeTarget "ViewControllerLifecycle" */;
 			buildPhases = (
-				28F8BF6627E228F800CAD562 /* Sources */,
-				28F8BF6727E228F800CAD562 /* Frameworks */,
-				28F8BF6827E228F800CAD562 /* Resources */,
+				28E66AF12830F291008A200B /* Sources */,
+				28E66AF22830F291008A200B /* Frameworks */,
+				28E66AF32830F291008A200B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Music;
-			productName = Images;
-			productReference = 28F8BF6A27E228F800CAD562 /* Music.app */;
+			name = ViewControllerLifecycle;
+			productName = ViewControllerLifecycle;
+			productReference = 28E66AF52830F291008A200B /* ViewControllerLifecycle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		28F8BF6227E228F800CAD562 /* Project object */ = {
+		28E66AED2830F291008A200B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1320;
-				LastUpgradeCheck = 1320;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					28F8BF6927E228F800CAD562 = {
-						CreatedOnToolsVersion = 13.2.1;
+					28E66AF42830F291008A200B = {
+						CreatedOnToolsVersion = 13.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 28F8BF6527E228F800CAD562 /* Build configuration list for PBXProject "Music" */;
+			buildConfigurationList = 28E66AF02830F291008A200B /* Build configuration list for PBXProject "ViewControllerLifecycle" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -148,57 +110,47 @@
 				en,
 				Base,
 			);
-			mainGroup = 28F8BF6127E228F800CAD562;
-			productRefGroup = 28F8BF6B27E228F800CAD562 /* Products */;
+			mainGroup = 28E66AEC2830F291008A200B;
+			productRefGroup = 28E66AF62830F291008A200B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				28F8BF6927E228F800CAD562 /* Music */,
+				28E66AF42830F291008A200B /* ViewControllerLifecycle */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		28F8BF6827E228F800CAD562 /* Resources */ = {
+		28E66AF32830F291008A200B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28F8BF7A27E228FA00CAD562 /* LaunchScreen.storyboard in Resources */,
-				28F8BF7727E228FA00CAD562 /* Assets.xcassets in Resources */,
-				28F8BF7527E228F800CAD562 /* Main.storyboard in Resources */,
+				28E66B052830F295008A200B /* LaunchScreen.storyboard in Resources */,
+				28E66B022830F295008A200B /* Assets.xcassets in Resources */,
+				28E66B0D28312C88008A200B /* ViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		28F8BF6627E228F800CAD562 /* Sources */ = {
+		28E66AF12830F291008A200B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2838035227E2334700FB565C /* HomeViewModel.swift in Sources */,
-				2838035027E231C000FB565C /* ImageCVCell.swift in Sources */,
-				28F8BF7227E228F800CAD562 /* HomeViewController.swift in Sources */,
-				28F8BF6E27E228F800CAD562 /* AppDelegate.swift in Sources */,
-				28F8BF7027E228F800CAD562 /* SceneDelegate.swift in Sources */,
+				28E66AFD2830F291008A200B /* ViewController.swift in Sources */,
+				28E66AF92830F291008A200B /* AppDelegate.swift in Sources */,
+				28E66AFB2830F291008A200B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		28F8BF7327E228F800CAD562 /* Main.storyboard */ = {
+		28E66B032830F295008A200B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				28F8BF7427E228F800CAD562 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		28F8BF7827E228FA00CAD562 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				28F8BF7927E228FA00CAD562 /* Base */,
+				28E66B042830F295008A200B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -206,14 +158,13 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		28F8BF7C27E228FA00CAD562 /* Debug */ = {
+		28E66B072830F295008A200B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
-				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -257,7 +208,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -267,14 +218,13 @@
 			};
 			name = Debug;
 		};
-		28F8BF7D27E228FA00CAD562 /* Release */ = {
+		28E66B082830F295008A200B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
-				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -312,7 +262,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -322,7 +272,7 @@
 			};
 			name = Release;
 		};
-		28F8BF7F27E228FA00CAD562 /* Debug */ = {
+		28E66B0A2830F295008A200B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -331,10 +281,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 442AHZGZ2T;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Music/App/Info.plist;
+				INFOPLIST_FILE = ViewControllerLifecycle/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -342,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.habliuc.Music;
+				PRODUCT_BUNDLE_IDENTIFIER = com.habliuc.ViewControllerLifecycle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -350,7 +299,7 @@
 			};
 			name = Debug;
 		};
-		28F8BF8027E228FA00CAD562 /* Release */ = {
+		28E66B0B2830F295008A200B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -359,10 +308,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 442AHZGZ2T;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Music/App/Info.plist;
+				INFOPLIST_FILE = ViewControllerLifecycle/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -370,7 +318,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.habliuc.Music;
+				PRODUCT_BUNDLE_IDENTIFIER = com.habliuc.ViewControllerLifecycle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -381,25 +329,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		28F8BF6527E228F800CAD562 /* Build configuration list for PBXProject "Music" */ = {
+		28E66AF02830F291008A200B /* Build configuration list for PBXProject "ViewControllerLifecycle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				28F8BF7C27E228FA00CAD562 /* Debug */,
-				28F8BF7D27E228FA00CAD562 /* Release */,
+				28E66B072830F295008A200B /* Debug */,
+				28E66B082830F295008A200B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		28F8BF7E27E228FA00CAD562 /* Build configuration list for PBXNativeTarget "Music" */ = {
+		28E66B092830F295008A200B /* Build configuration list for PBXNativeTarget "ViewControllerLifecycle" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				28F8BF7F27E228FA00CAD562 /* Debug */,
-				28F8BF8027E228FA00CAD562 /* Release */,
+				28E66B0A2830F295008A200B /* Debug */,
+				28E66B0B2830F295008A200B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 28F8BF6227E228F800CAD562 /* Project object */;
+	rootObject = 28E66AED2830F291008A200B /* Project object */;
 }
